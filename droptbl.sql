@@ -1,0 +1,14 @@
+drop table AMENITIES;
+drop table ASSIGNED;
+drop table ASSISTANTS;
+drop table CASUALGUESTS;
+drop table CHARGES;
+drop table CLEANERS;
+drop table CLEANS;
+drop table GUESTS;
+drop table HOSTS;
+drop table PAIDAMENITIES;
+drop table RESERVATIONS;
+drop table ROOMS;
+drop table STAFF;
+drop table VIPGUEST;
