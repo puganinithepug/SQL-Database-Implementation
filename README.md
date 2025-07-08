@@ -26,8 +26,8 @@ RoomType bookings by month
 Total monthly spend trends
 Extracted seasonality patterns and strategic insights
 
-**Java Application Integration - **CLI application to:**
-**Create/cancel reservations
+**Java Application Integration - LI application to:**
+Create/cancel reservations
 Apply VIP logic
 Search guest and room info
 Ensured business rules (capacity, discount, availability) were validated via SQL
